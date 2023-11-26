@@ -7,3 +7,5 @@ Optional ist eine NanoPixel-LED verbaut um den Status anzuzeigen.<br>
 Die Schnittstelle zum Tor ist ein einfaches Relais, das die Kontakte Brückt.<br>
 
 <img src="Garagenöffner_Steckplatine.png" >
+
+Eine STL-Datei um ein Gehäuse im 3D-Druck herstellen zu können, ist auch angefügt.
